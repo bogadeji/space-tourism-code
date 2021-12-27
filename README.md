@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/bogadeji/space-tourism-code](https://github.com/bogadeji/space-tourism-code)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -44,7 +44,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://bogadeji.netlify.app)
+- Website - [Abigail Adeboga](https://bogadeji.netlify.app)
 
 ## Acknowledgments
 
