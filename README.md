@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/bogadeji/space-tourism-code](https://github.com/bogadeji/space-tourism-code)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://bogadeji.github.io/space-tourism-code/index.html](https://bogadeji.github.io/space-tourism-code/index.html)
 
 ## My process
 
